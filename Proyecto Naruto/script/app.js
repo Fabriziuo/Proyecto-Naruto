@@ -1,4 +1,5 @@
 // NEGRO PATO :)
+// HOLI
 const txtCharacter = document.getElementById("txt-character");
 const containerCards = document.getElementById("containerCards");
 const URL1 = "https://narutodb.xyz/api/character?page=1&limit=1400";
