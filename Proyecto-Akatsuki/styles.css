@@ -18,7 +18,7 @@ body{
 header{
    width: 100%;
    height: 10rem;
-   background-image: url(./banner.jpeg);
+   background-image: url(./ZbpB.gif);
    background-size: contain;
 
 
@@ -27,7 +27,7 @@ header{
 
 h1{
    font-size: 5rem;
-   text-shadow: 0 0 15px #c90808;
+   text-shadow: 0 0 15px #3208c9;
    color: #413131;
 }
 hr{
@@ -49,7 +49,7 @@ main{
    height: 1rem;
    font-size: 1.5rem;
    border-radius: 20px;
-   background-color:#ce4c4c;
+   background-color:#0b07e9;
    padding: 1rem;
    color: black;
   
@@ -89,7 +89,7 @@ border-bottom-color: rgb(170, 50, 220, .6);
      font-size: 30px;
    }
    header{
-     width: 100%;
+     width: 90%;
      margin-bottom: 40px;
    }
    img{
