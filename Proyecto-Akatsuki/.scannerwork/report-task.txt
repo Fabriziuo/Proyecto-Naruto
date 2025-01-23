@@ -1,0 +1,6 @@
+projectKey=Akatsuki
+serverUrl=http://localhost:9000
+serverVersion=25.1.0.102122
+dashboardUrl=http://localhost:9000/dashboard?id=Akatsuki
+ceTaskId=7d2d49d9-b836-4378-aa89-38fa263adb9f
+ceTaskUrl=http://localhost:9000/api/ce/task?id=7d2d49d9-b836-4378-aa89-38fa263adb9f
